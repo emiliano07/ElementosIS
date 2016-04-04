@@ -1,4 +1,4 @@
-package juego_test;
+package tatetiTest;
 
 import org.junit.Assert;
 import org.junit.Before;
@@ -9,7 +9,7 @@ import ficha.FichaO;
 import ficha.FichaX;
 import juego.Tateti;
 
-public class JuegoTatetiTest {
+public class tatetiTest {
 
 public Tateti tateti;
 	
